@@ -15,7 +15,7 @@
 ## Usage
 The best way to use this application is to go to the deployed webpage and start using the app there!
 
-![Note Taker](./Develop/noteTaker.png)
+![Note Taker](./noteTaker.png)
 
 ## Contribution
 
@@ -25,6 +25,8 @@ https://git.bootcampcontent.com/Ohio-State-University/OSU-VIRT-FSF-PT-01-2024-U-
 
 ## Tests
 This can be tested by opening the url and adding and deleting notes as needed.
+
+https://note-taker101-1c17bd601aa1.herokuapp.com/
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
