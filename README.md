@@ -13,7 +13,9 @@
 - [Questions](#questions)
 
 ## Usage
-The best way to use this application is to go to the deployed webpage and start using the app their!
+The best way to use this application is to go to the deployed webpage and start using the app there!
+
+[](./Develop/noteTaker.png)
 
 ## Contribution
 
